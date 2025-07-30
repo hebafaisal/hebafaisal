@@ -67,5 +67,5 @@
 
 ### 🎮 Bonus Game
 
-[![Play the T-Rex Game](https://user-images.githubusercontent.com/674621/145717456-2ca51c44-694f-4860-9f85-df7ddf038e29.png)](https://krishealty.github.io/T-Rex-runner/)
-> Click the image to play!
+Feeling like debugging all day? Take a fun break:  
+[🦖 Play the T-Rex Runner Game](https://krishealty.github.io/T-Rex-runner/)
