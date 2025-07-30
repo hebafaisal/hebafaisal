@@ -13,7 +13,7 @@
 ---
 
 ### 👩‍💻 About Me
-
+- ⚡I’m currently learning Just Learning
 - 📝 I regularly share thigns on [LinkedIn](https://www.linkedin.com/in/hebaasharif/)
 - 📫 Reach me at: **hebaalsharif33@gmail.com**
 - 🎯 Fun fact: *I love Lego and photography!*
