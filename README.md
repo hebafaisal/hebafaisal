@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Heba+Backend+Developer+&+Code+Crafter!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I’m+Heba+Backend+Developer+&+Code+Crafter!&center=true&size=30">
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 ---
 
 ### 👩‍💻 About Me
-- ⚡I’m currently learning Just Learning
+- ⚡I’m currently just learning
 - 📝 I regularly share thigns on [LinkedIn](https://www.linkedin.com/in/hebaasharif/)
 - 📫 Reach me at: **hebaalsharif33@gmail.com**
 - 🎯 Fun fact: *I love Lego and photography!*
